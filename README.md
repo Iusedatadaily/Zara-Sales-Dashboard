@@ -52,4 +52,12 @@ This analysis serves as a foundation for data-driven decision-making in enhancin
 
 Dashboard image
 
+https://github.com/Iusedatadaily/Zara-Sales-Dashboard/blob/main/A61ED24B-8E6B-4FA8-BAD4-6103191E9252%20(1).JPG
+
+Project Link
+
+
+
+
+
 
