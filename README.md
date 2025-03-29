@@ -56,6 +56,8 @@ https://github.com/Iusedatadaily/Zara-Sales-Dashboard/blob/main/A61ED24B-8E6B-4F
 
 Project Link
 
+https://github.com/Iusedatadaily/Zara-Sales-Dashboard/blob/main/ZARA%20SALES%20DASHBOARD.pbix
+
 
 
 
